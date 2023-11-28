@@ -1,5 +1,5 @@
 for kurtis
-
+ 
 
 curl 'https://searchbff.tatacliq.com/products/mpl/search?searchText=%3Arelevance%3Acategory%3AMSH1012100%3AinStockFlag%3Atrue&isKeywordRedirect=false&isKeywordRedirectEnabled=false&channel=WEB&isMDE=true&isTextSearch=false&isFilter=false&qc=false&test=invizbff.qpsv3-inviz.ab&page=1&mcvid=40428844743522272003612757795264414381&customerId=&isSuggested=false&isPwa=true&pageSize=40&typeID=all' \
   -H 'authority: searchbff.tatacliq.com' \
