@@ -2,7 +2,7 @@
 footwear_for_men
 
 '''
-
+ 
 
 import subprocess
 import csv
